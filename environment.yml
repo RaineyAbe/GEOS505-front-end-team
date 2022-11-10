@@ -1,0 +1,9 @@
+name: geos505-dashboard
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - hvplot
+  - folium
+prefix: /Users/raineyaberle/opt/anaconda3/envs/geos505-dashboard
