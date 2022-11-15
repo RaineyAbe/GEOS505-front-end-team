@@ -6,3 +6,8 @@ dependencies:
   - jupyterlab
   - hvplot
   - folium
+  - xarray
+  - h5netcdf
+  - netcdf4
+  - scipy
+  - rioxarray
