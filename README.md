@@ -13,5 +13,3 @@ __Contributors:__
 - [Rainey Aberle](https://github.com/RaineyAbe) 
 
 Workflows for creating figures for populating the climate dashboard for the Pacific Northwest using Panel -- Front End team.
-
-![Precip map](figures/map_prate.html "Precipitation rate interactive map")
