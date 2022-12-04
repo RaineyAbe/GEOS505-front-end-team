@@ -12,4 +12,6 @@ __Contributors:__
 - [Phoebe Kinzelman](https://github.com/phoebekinzelman)
 - [Rainey Aberle](https://github.com/RaineyAbe) 
 
-Draft workflows for creating the climate dashboard for Idaho using Panel -- Front End team. 
+Workflows for creating figures for populating the climate dashboard for the Pacific Northwest using Panel -- Front End team.
+
+![Precip map](figures/map_prate.html "Precipitation rate interactive map")
